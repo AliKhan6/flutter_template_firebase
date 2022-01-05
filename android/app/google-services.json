@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216604154242",
+    "project_id": "calkitna-mobile-app",
+    "storage_bucket": "calkitna-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216604154242:android:8b5259353a1734b210d79b",
+        "android_client_info": {
+          "package_name": "com.example.calkitna_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216604154242-vvgpts5on3s2t9j93rg9jeafh55lg2pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calkitna_mobile_app",
+            "certificate_hash": "57ba55586f7d75382ac494481042fdd81e6b9a2e"
+          }
+        },
+        {
+          "client_id": "216604154242-ob6t5f7v61u5nfhg3k20j4tk7fagp7ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCGBYgvxHKLBKggMc5aNIOzJrPgD6Es8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216604154242-ob6t5f7v61u5nfhg3k20j4tk7fagp7ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
