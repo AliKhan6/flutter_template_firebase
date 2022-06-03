@@ -17,13 +17,17 @@ class CustomButton extends StatelessWidget {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        height: 47.h,
+        height: 35.h,
         child: Center(
           child: Text('$text',
-              style: subHeadingTextStyleRoboto.copyWith(color: textColor)),
+              style: subHeadingTextStyleRoboto.copyWith(
+                color: textColor,
+                fontSize: 17.sp,
+                fontWeight: FontWeight.bold,
+              )),
         ),
         decoration: BoxDecoration(
-            color: buttonColor, borderRadius: BorderRadius.circular(5)),
+            color: buttonColor, borderRadius: BorderRadius.circular(23)),
       ),
     );
   }

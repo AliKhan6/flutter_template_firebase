@@ -23,11 +23,13 @@ class CustomTextField extends StatelessWidget {
   final Color? fillColor;
   final bool? isElevated;
   final onChange;
+  final contentPadding;
   CustomTextField(
       {this.controller,
       this.prefixIcon,
       this.maxline = 1,
       this.ontap,
+      this.contentPadding,
       this.errorColor = blackColor,
       this.disableBorder = false,
       this.label,
@@ -48,6 +50,7 @@ class CustomTextField extends StatelessWidget {
     return Stack(
       children: [
         Container(
+            // padding: EdgeInsets.all(20),
             height: (43.h * maxline!),
             decoration: BoxDecoration(
                 color: fillColor,
@@ -87,18 +90,22 @@ class CustomTextField extends StatelessWidget {
               prefixIconConstraints: BoxConstraints(
                   maxHeight: prefixIcon != null ? 40 : 14,
                   maxWidth: prefixIcon != null ? 50 : 15),
-              border: InputBorder.none,
+              border:
+                  OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
               errorBorder: InputBorder.none,
               isDense: true,
               errorStyle: bodyTextStyleRoboto.copyWith(fontSize: 12),
               // alignLabelWithHint: true,
-              suffixIcon: Padding(
-                  padding: const EdgeInsets.only(),
-                  child: suffixIcon ?? Container()),
+              suffixIcon:
+                  // Padding(
+                  // padding: const EdgeInsets.all(),
+                  // child:
+                  suffixIcon,
+              // ?? SizedBox()),
               suffixIconConstraints:
                   const BoxConstraints(maxHeight: 40, maxWidth: 50),
-              contentPadding:
-                  const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              contentPadding: contentPadding ??
+                  EdgeInsets.symmetric(horizontal: 16, vertical: 11.h),
               // EdgeInsets.only(left: 21.0, top: 10),
               hintText: hintText,
 

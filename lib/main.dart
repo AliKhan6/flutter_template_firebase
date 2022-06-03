@@ -18,15 +18,16 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: const Size(393, 851),
-      builder: () => GetMaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          primaryColor: primaryColor,
-          primarySwatch: Colors.blue,
-        ),
-        home: const SplashScreen(),
+    return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primaryColor: primaryColor,
+        primarySwatch: Colors.blue,
+      ),
+      home: ScreenUtilInit(
+        designSize: Size(Get.width, Get.height),
+        builder: () => const SplashScreen(),
       ),
     );
   }

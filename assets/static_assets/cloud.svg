@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.964" height="34.125" viewBox="0 0 45.964 34.125">
+  <g id="Group_10" data-name="Group 10" transform="translate(-284.644 -164.572)">
+    <path id="cloud" d="M0,20.056a6.982,6.982,0,0,0,2.385,5.318,8.176,8.176,0,0,0,5.757,2.2H31.21A9.537,9.537,0,0,0,37.92,25a8.146,8.146,0,0,0,2.789-6.2,8.053,8.053,0,0,0-1.505-4.73,9.169,9.169,0,0,0-3.965-3.2q.042-.548.042-.842A9.3,9.3,0,0,0,32.1,2.938,10.914,10.914,0,0,0,24.425,0,11.13,11.13,0,0,0,18.35,1.724a10.215,10.215,0,0,0-3.975,4.5,5.387,5.387,0,0,0-3.519-1.214A5.457,5.457,0,0,0,7.019,6.483a4.648,4.648,0,0,0-1.59,3.545,4.59,4.59,0,0,0,.87,2.7,8.07,8.07,0,0,0-4.516,2.634A6.94,6.94,0,0,0,0,20.056Z" transform="translate(289.9 171.12)" fill="#bebce7"/>
+    <g id="sunny-sharp" transform="translate(281.853 167.953) rotate(-11)">
+      <path id="Path_6" data-name="Path 6" d="M0,0H3.094V6.469H0Z" transform="translate(14.625 0)" fill="#fff"/>
+      <path id="Path_8" data-name="Path 8" d="M0,4.574,4.574,0,6.762,2.188,2.188,6.762Z" transform="translate(21.939 3.643)" fill="#fff"/>
+      <path id="Path_11" data-name="Path 11" d="M0,0H6.469V3.094H0Z" transform="translate(0 14.625)" fill="#fff"/>
+      <path id="Path_13" data-name="Path 13" d="M0,2.188,2.188,0,6.762,4.574,4.574,6.762Z" transform="translate(3.642 3.642)" fill="#fff"/>
+      <path id="Path_14" data-name="Path 14" d="M8,16a8,8,0,1,1,8-8A8,8,0,0,1,8,16Z" transform="translate(8.018 8.809)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

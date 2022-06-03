@@ -28,7 +28,7 @@ class OnboardingViewModel extends BaseViewModel {
   List<Onboarding> onboardings = [
     Onboarding(
         image: '$staticAsset/onboarding1.png',
-        buttonColor: borderColor,
+        buttonColor: greyColor,
         backgroundColor: const Color(0xFFF2A950),
         title: 'Tracking your daily diet.',
         description:

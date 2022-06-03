@@ -5,5 +5,5 @@ const Color blackColor = Color(0xFF363636);
 const Color redColor = Color(0xFFDC4844);
 const Color yellowColor = Color(0xFFD57C2A);
 const Color blueColor = Color(0xFF519BE2);
-const Color greenColor = Color(0xFF56AD6A);
-const Color borderColor = Color(0xFF4D2C04);
+const Color lightPrimary = Color(0xFFABA8E0);
+const Color greyColor = Color(0xFFEDECF5);

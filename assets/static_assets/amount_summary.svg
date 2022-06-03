@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198.263" height="188.347" viewBox="0 0 198.263 188.347">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.338" y1="0.964" x2="0.661" y2="0.217" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a55c3"/>
+      <stop offset="1" stop-color="#5a55c3" stop-opacity="0.149"/>
+    </linearGradient>
+    <filter id="Path_53" x="0" y="0" width="198.263" height="188.347" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-107.447 -70.314)">
+    <path id="Path_54" data-name="Path 54" d="M27.778,0a56.606,56.606,0,0,1-2.09,29.591A56.607,56.607,0,0,1,8.92,54.061L0,43.577a42.842,42.842,0,0,0,12.691-18.52,42.842,42.842,0,0,0,1.582-22.4Z" transform="translate(198.29 137.133) rotate(-53)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 107.45, 70.31)" filter="url(#Path_53)">
+      <path id="Path_53-2" data-name="Path 53" d="M112.145,34.519A56.607,56.607,0,1,1,22.883,0c33.648,45.358-.047-.061,33.723,45.465Z" transform="matrix(0.99, 0.1, -0.1, 0.99, 44.17, 33.5)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

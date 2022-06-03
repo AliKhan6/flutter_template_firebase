@@ -6,7 +6,7 @@ import 'package:calkitna_mobile_app/ui/custom_widgets/custom_text_field.dart';
 import 'package:calkitna_mobile_app/ui/custom_widgets/social_auth_button.dart';
 import 'package:calkitna_mobile_app/ui/screens/auth_screens/login/login_screen.dart';
 import 'package:calkitna_mobile_app/ui/screens/auth_screens/signup/signup_view_model.dart';
-import 'package:calkitna_mobile_app/ui/screens/home/home_screen.dart';
+import 'package:calkitna_mobile_app/ui/screens/base_screen/base_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
@@ -46,7 +46,7 @@ class SignUpScreen extends StatelessWidget {
                     CustomButton(
                       text: 'Register',
                       buttonColor: const Color(0xFF262626),
-                      onTap: () => Get.offAll(() => const HomeScreen()),
+                      onTap: () => Get.offAll(() => BaseScreen()),
                       textColor: Colors.white,
                     ),
                     SizedBox(height: 24.h),

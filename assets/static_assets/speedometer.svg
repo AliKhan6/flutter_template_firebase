@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.75" height="29.25" viewBox="0 0 33.75 29.25">
+  <g id="speedometer-outline" transform="translate(-1.125 -3.375)">
+    <g id="Group_2" data-name="Group 2">
+      <path id="Path_26" data-name="Path 26" d="M18,4.5A15.744,15.744,0,0,0,6.209,30.684c.077.084.148.169.225.246a1.771,1.771,0,0,0,2.609-.007,12.173,12.173,0,0,1,17.916,0,1.771,1.771,0,0,0,2.609.007l.225-.246A15.746,15.746,0,0,0,18,4.5Z" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25"/>
+      <path id="Path_27" data-name="Path 27" d="M18,9v2.25" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="Path_28" data-name="Path 28" d="M29.25,20.25H27" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="Path_29" data-name="Path 29" d="M9,20.25H6.75" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="Path_30" data-name="Path 30" d="M11.636,13.886,10.045,12.3" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="Path_31" data-name="Path 31" d="M24.364,13.886,25.955,12.3" fill="none" stroke="#aba8e0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.25"/>
+      <path id="Path_25" data-name="Path 25" d="M22.929,16.305l-3.34,5.309a2.18,2.18,0,0,1-.492.492,2.117,2.117,0,1,1-2.461-3.445l5.309-3.34a.719.719,0,0,1,.823,0,.707.707,0,0,1,.162.984Z" fill="#aba8e0"/>
+    </g>
+  </g>
+</svg>

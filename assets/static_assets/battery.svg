@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="59" viewBox="0 0 9 59">
+  <g id="Group_11" data-name="Group 11" transform="translate(-224 -1031)">
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(224 1032)" fill="#fff" stroke="#f6951d" stroke-width="1">
+      <path d="M2,0H7A2,2,0,0,1,9,2V20a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M2,.5H7A1.5,1.5,0,0,1,8.5,2V19.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V2A1.5,1.5,0,0,1,2,.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(226 1031)" fill="#fff" stroke="#f6951d" stroke-width="1">
+      <path d="M2,0H3A2,2,0,0,1,5,2V2A0,0,0,0,1,5,2H0A0,0,0,0,1,0,2V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M1.5.5h2a1,1,0,0,1,1,1v0a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0v0A1,1,0,0,1,1.5.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(224 1051)" fill="#f6951d" stroke="#f6951d" stroke-width="1">
+      <rect width="9" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8" height="19" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(224 1070)" fill="#f6951d" stroke="#f6951d" stroke-width="1">
+      <path d="M0,0H9A0,0,0,0,1,9,0V19a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M.5.5h8a0,0,0,0,1,0,0V19a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,19V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>
